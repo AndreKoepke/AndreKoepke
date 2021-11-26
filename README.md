@@ -1,10 +1,10 @@
 Dear Friends,
 
-Iam Andre.  
-It is nice learn some things here on Github and it is also nice to share my knowledge and help others out.  
+I'm Andre.  
+It's nice learn some things here on Github and it is also nice to share my knowledge and help others out.  
 
 ## about me
-Iam working as dev for a few years. I like it to try out modern and opensource tools.  
+I'm working as dev for a few years. I like it to try out modern and opensource tools.  
 So I operate my own little kubernetes cluster. You can reach it on https://akop.online or https://akop.top.
 
 [![akops's github stats](https://github-readme-stats.vercel.app/api?username=AndreKoepke)](https://github.com/anuraghazra/github-readme-stats)

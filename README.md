@@ -1,27 +1,10 @@
-Dear Friends,
-
-I'm Andre.  
-It's nice learn some things here on Github and it is also nice to share my knowledge and help others out.  
 
 ## about me
-I'm working as dev for a few years. I like it to try out modern and opensource tools.  
-So I operate my own little kubernetes cluster. You can reach it on https://akop.online or https://akop.top.
+* Professional software developer since 2016
+* Opensource fan (but too less time for it)
+* Kubernetes fan
+* Operator of my own small kubernetes cluster. My personal website is also hosted in there, look at https://akop.online or https://akop.top.
 
-[![akops's github stats](https://github-readme-stats.vercel.app/api?username=AndreKoepke)](https://github.com/anuraghazra/github-readme-stats)
+## cards
+[![akops's github stats](https://github-readme-stats.vercel.app/api?username=AndreKoepke&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreKoepke&langs_count=8&theme=github_dark&hide=PHP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Have fun watching my profile and try out some of my projects
-
-<!--
-**AndreKoepke/AndreKoepke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
